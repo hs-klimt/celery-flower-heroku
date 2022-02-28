@@ -1,1 +1,1 @@
-web: flower --port=$PORT
+web: celery flower --port=5555
